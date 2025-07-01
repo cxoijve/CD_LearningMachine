@@ -1,6 +1,58 @@
 # ChatPick
 2025 캡스톤 디자인 카카오톡 대화 기반 선물 추천 시스템
 
+## 역할 분담
+<table style="width:100%; display: table; table-layout:fixed; text-align:left;">
+  <thead>
+    <tr>
+      <th style="width:10%;">역할</th>
+      <th style="width:18%;">김하정</th>
+      <th style="width:18%;">김윤우</th>
+      <th style="width:18%;">문수호</th>
+      <th style="width:18%;">박지혜</th>
+      <th style="width:18%;">최지예</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>주요 직무</td>
+      <td>팀장 / AI</td>
+      <td>프론트엔드</td>
+      <td>백엔드 / 데이터 크롤링</td>
+      <td>데이터 크롤링 / AI</td>
+      <td>AI</td>
+    </tr>
+    <tr>
+      <td>업무</td>
+      <td>
+        - 대화 키워드 추출 모델 파인튜닝<br>
+        - 대화 속 중요도 판단 모델 파인튜닝<br>
+        - 전반적인 프로젝트 관리
+      </td>
+      <td>
+        - UI/UX 제작 (Next.js)<br>
+        - 카카오톡 선물 데이터 크롤링<br>
+        - 상품 데이터 전처리 및 키워드 추출 (KeyBERT)
+      </td>
+      <td>
+        - 크롤링 코드 제작<br>
+        - 상품 데이터 전처리 및 키워드 추출 (KeyBERT)<br>
+        - 백엔드 API 구축
+      </td>
+      <td>
+        - 카카오톡 선물 데이터 크롤링<br>
+        - 상품 데이터 전처리 및 키워드 추출 (KeyBERT)
+      </td>
+      <td>
+        - 주제 구상 및 모델 기획<br>
+        - 친밀도/대화주제 기반 모델 데이터 수집, 정제, 파인튜닝<br>
+        - 관계 기반 모델 성능 향상<br>
+        - 입력 대화문 제작 및 발표 담당
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 시연영상
 https://github.com/user-attachments/assets/f2fe9ce9-bf42-44bc-b322-9bdfc8e1d820
 
